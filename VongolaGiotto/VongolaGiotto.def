@@ -1,0 +1,26 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Giotto"
+displayname = "Vongola Primo"
+versiondate = 03/04/2011
+mugenversion = 1.1
+author = "Maranguape e Dante"
+pal.defaults = 1,2,3,4,5
+
+[Files]
+sprite = VongolaGiotto.sff
+anim = VongolaGiotto.air
+sound = VongolaGiotto.snd
+cmd = VongolaGiotto.cmd
+cns = VongolaGiotto.cns
+stcommon = common1.cns
+st = VongolaGiotto.cns
+pal1 = VongolaGiotto.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 
